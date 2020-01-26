@@ -1,5 +1,7 @@
 # componente-desafio
 
+Exercise: Created and organized components with Vue.js
+
 ## Project setup
 ```
 npm install
